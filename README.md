@@ -1,1 +1,13 @@
 # Seaborn_barplot
+# Seaborn_distplot
+# Seaborn_boxplot
+# Seaborn_stripplot
+# Seaborn_pairgrid
+# Seaborn_violinplot
+# Seaborn_clustermap
+# Seaborn_heatmaps
+# Seaborn_facetgrid
+# Seaborn_kdeplot
+# Seaborn_jointplot
+# Seaborn_regplot
+# Seaborn_pairplot
